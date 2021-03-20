@@ -1,6 +1,6 @@
 
 password = ''
-storedPassword = 'kudi'
+storedPassword = 'vikings'
 allowedTries = 3
 attempts = 0
 
